@@ -5,12 +5,12 @@
 ### RNA-STAR and RSEM Library build and indexing ###
 Use these two files:\
 1.1.RNA_STAR_Indexing.sh\
-2.1.RSEM_Indexing.sh\
+2.1.RSEM_Indexing.sh
 
 ### RNA-STAR Mapping and RSEM quantification ###
 Use:\
 1.2.RNA_STAR_RNAseq2.sh\
-2.2.RSEM_RNAseq2.sh\
+2.2.RSEM_RNAseq2.sh
 
 ### Count Tables with gene information ###
 Requirements:\
