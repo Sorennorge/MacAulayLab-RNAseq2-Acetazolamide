@@ -13,9 +13,9 @@ Use:
 2.2.RSEM_RNAseq2.sh
 
 ### Count Tables with gene information ###
-Requirements:
-Biomart of Rnor6.0 with Attributes: Gene stable ID & Gene name
-use:
+Requirements:\
+Biomart of Rnor6.0 with Attributes: Gene stable ID & Gene name\
+Use:\
 3.RSEM_to_count_tables.py
 
 ### Get genes of interest and Log2FC ###
